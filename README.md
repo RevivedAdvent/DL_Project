@@ -3,6 +3,8 @@
 
 A Flask web app that classifies drink images as hot or cold using a fine-tuned MobileNetV2 model.
 
+Refer to requirements.txt and use pip install to install the modules.
+
 Where to obtain datasets?
 
 https://www.kaggle.com/datasets/rajkumarl/tea-time - Works for hot drinks (Can select manually for even better accuracy)
