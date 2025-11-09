@@ -1,0 +1,1 @@
+Store the hot drinks dataset images in this directory
