@@ -1,1 +1,1 @@
-
+Store the cold drinks dataset images in this directory
