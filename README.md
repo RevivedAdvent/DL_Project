@@ -8,6 +8,7 @@ Refer to requirements.txt and use pip install to install the modules.
 Where to obtain datasets?
 
 https://www.kaggle.com/datasets/rajkumarl/tea-time - Works for hot drinks (Can select manually for even better accuracy)
+
 https://www.kaggle.com/datasets/faseeh001/cold-drinks-inventory-dataset - Works for cold drinks (Manual selection recommended due to overfitting errors)
 
 ## Steps
