@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/rajkumarl/tea-time - Works for hot drinks (Can s
 
 https://www.kaggle.com/datasets/faseeh001/cold-drinks-inventory-dataset - Works for cold drinks (Manual selection recommended due to overfitting errors)
 
-## Steps
+## Steps to run the project
 1. Prepare dataset (`python prepare_dataset.py`)
 2. Train model (`python train_model.py`)
 3. Run app (`python app.py`)
